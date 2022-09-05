@@ -2,11 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+With this app you have the worlds time in phone.
 
-This project is a starting point for a Flutter application.
+It is a mobile app that let you check the time in any country, this project is built with Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started if you want to learn flutter:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
